@@ -171,6 +171,15 @@ LICENSE
 
 ---
 
+<img width="1295" height="737" alt="Screenshot 2026-06-30 204802" src="https://github.com/user-attachments/assets/371b9b46-a147-4973-bec9-505d5fb062c7" />
+
+<img width="1372" height="712" alt="Screenshot 2026-06-30 204854" src="https://github.com/user-attachments/assets/251c02e8-3ebe-4585-b683-d5fc408e5a4a" />
+
+<img width="1368" height="727" alt="Screenshot 2026-06-30 204912" src="https://github.com/user-attachments/assets/8c030f6c-d0b3-4828-97d6-e94803a333e4" />
+
+
+
+
 # 👨‍💻 Author
 
 **Anusur Khaire**
